@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: Franco Nicolas Benitez 
-- Vivo en Moreno <3
+- Vivo en Moreno city <3 
 
 
 ### Otra Información
