@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Franco Nicolas Benitez 
+- Vivo en Moreno <3
 
 
 ### Otra Información
