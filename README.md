@@ -9,5 +9,8 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo Perro que se Llama Adam <3
+- Este es mi primer contacto con github y me parece muy entretenido y enrriquecedor 
+
+- Tengo Perro que se Llama Adam es un maricon, pero tambien muy guardian ... 
+- aun es un cachorrito
+![img](Img_Presentacion.png)
